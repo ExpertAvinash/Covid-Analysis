@@ -48,3 +48,7 @@ By studying this data, we can:
 * Understand how different regions managed the crisis
 * Use data as a foundation for better decision-making in the future
 ---
+
+Author: Avinash Paliwal
+GitHub: https://github.com/ExpertAvinash 
+LinkedIn: https://www.linkedin.com/in/avinash-paliwal-a710a1253/
